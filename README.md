@@ -7,7 +7,7 @@ It is a ‘Die and retry’ game: each level has an increasing difficulty and th
 - at second the fastest you can,
 - at third with the fewest deaths.
 
-This git contains the *final version* of my game.
+This git contains the ***final version*** of my game.
 
 ![screenshot0](screenshot0.png)
 ![screenshot1](screenshot1.png)
